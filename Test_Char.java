@@ -9,10 +9,6 @@ package src.org.test.framework.primitive;
  */
 public class Test_Char extends Primitive{
    
-    public boolean equals_char(char a, char b){
-        return a == b;
-    }
     
-   
      
 }
